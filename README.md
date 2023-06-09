@@ -1,4 +1,4 @@
-# Hackintosh-MSI-B660M-MORTAR-MAX-WIFI-12700K-RX6600XT
+# Hackintosh-MSI-MAG-B660M-MORTAR-MAX-WIFI-12700K-RX6600XT
 ## 写在前面
 
 小白第一次配置的黑苹果主机，可能EFI中还有精简或不完善的地方，大佬们看到了可以提醒我修改。
@@ -11,6 +11,32 @@ Windows下两个网卡都能驱动，但是蓝牙同时只能驱动一个，建�
 
 目前OC配置版本基于最新的0.9.2
 
+## 安装环境
+
+### macOS
+
+| 软件      | 版本                       |
+| --------- | -------------------------- |
+| macOS版本 | macOS Ventura 13.4 (22F66) |
+| OC版本    | 0.9.2                      |
+| 机型      | MacPro7,1                  |
+
+### BIOS
+
+| 选项                       | 状态 |
+| -------------------------- | ---- |
+| 安全启动                   | 禁止 |
+| 快速启动                   | 禁止 |
+| CFG锁定                    | 禁止 |
+| SR-IOV Support             | 允许 |
+| ARI Forwarding             | 允许 |
+| Intel VT-D 技术            | 禁止 |
+| D.T.M                      | 允许 |
+| ErP Ready                  | 允许 |
+| XMP                        | 开启 |
+| USB从S3/S4/S5唤醒          | 开启 |
+| USB Standby Power at S4/S5 | 允许 |
+
 ## 主机配置清单
 
 黑苹果自用EFI
@@ -19,7 +45,7 @@ Windows下两个网卡都能驱动，但是蓝牙同时只能驱动一个，建�
 | -------- | --------------------------------------------------------- |
 | 机箱     | 乔思伯U4 PLUS                                             |
 | 散热器   | 利民PA120 Black                                           |
-| 主板     | 微星B660M迫击炮-MAX-WIFI-D4                               |
+| 主板     | MSI- MAG-B660M-MORTAR-MAX-WIFI-D4                         |
 | CPU      | Intel-i7-12700k                                           |
 | 显卡     | 蓝宝石RX6600XT超白金                                      |
 | 内存     | 金百达黑爵16G*2                                           |
@@ -39,8 +65,6 @@ Windows下两个网卡都能驱动，但是蓝牙同时只能驱动一个，建�
 | 无线网卡（免驱） | 正常     |
 | 睡眠/唤醒        | 正常     |
 
+![f1df57260fd3ab5bda508ab561240134](./assets/f1df57260fd3ab5bda508ab561240134.png)
 
-
-![f1df57260fd3ab5bda508ab561240134](/Users/cvco/Documents/Hackintosh-MSI-B660M-MORTAR-MAX-WIFI-12700K-RX6600XT/assets/f1df57260fd3ab5bda508ab561240134.png)
-
-![b405698f24eb6fe4e64d20719ad21a00](/Users/cvco/Documents/Hackintosh-MSI-B660M-MORTAR-MAX-WIFI-12700K-RX6600XT/assets/b405698f24eb6fe4e64d20719ad21a00.png)
+![f1df57260fd3ab5bda508ab561240134](./assets/b405698f24eb6fe4e64d20719ad21a00.png)
