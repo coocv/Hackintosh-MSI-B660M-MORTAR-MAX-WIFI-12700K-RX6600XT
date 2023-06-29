@@ -13,7 +13,13 @@ Windows下两个网卡都能驱动，但是蓝牙同时只能驱动一个，建�
 
 目前OC配置版本基于最新的0.9.2
 
+
+
 ## [我的常用软件备份](https://github.com/coocv/Hackintosh-MSI-B660M-MORTAR-MAX-WIFI-12700K-RX6600XT/blob/main/MyApps.md)
+
+**[MSI-MAG-B660M-MORTAR-MAX-WIFI-DDR4指导手册](https://github.com/coocv/Hackintosh-MSI-B660M-MORTAR-MAX-WIFI-12700K-RX6600XT/blob/main/MSI.md)**
+
+
 
 ## 安装环境
 
