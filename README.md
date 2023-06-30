@@ -76,9 +76,21 @@ Windows下两个网卡都能驱动，但是蓝牙同时只能驱动一个，建�
 | 无线网卡（免驱） | 正常     |
 | 睡眠/唤醒        | 正常     |
 
+![f1df57260fd3ab5bda508ab561240134](./assets/b405698f24eb6fe4e64d20719ad21a00.png)
+
+## 鲁大师
+
 ![f1df57260fd3ab5bda508ab561240134](./assets/f1df57260fd3ab5bda508ab561240134.png)
 
-![f1df57260fd3ab5bda508ab561240134](./assets/b405698f24eb6fe4e64d20719ad21a00.png)
+### Geekbench6
+
+#### [CPU BenchMark](https://browser.geekbench.com/v6/cpu/1766444)
+
+![截屏2023-06-30 10.43.51](./assets/%E6%88%AA%E5%B1%8F2023-06-30%2010.43.51.png)
+
+#### [GPU BenchMark](https://browser.geekbench.com/v6/compute/619147)
+
+![截屏2023-06-30 10.07.56](./assets/%E6%88%AA%E5%B1%8F2023-06-30%2010.07.56.png)
 
 ## config.plist配置
 
